@@ -18,7 +18,7 @@ import (
 )
 
 func main() {
-NewBot("628388024064", func(k string) {
+NewBot("6285640649878", func(k string) {
 	println(k)
 })
 	/* web server */
